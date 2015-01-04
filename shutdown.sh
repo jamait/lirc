@@ -1,0 +1,1 @@
+irsend SEND_ONCE Pioneer_AXD-1531 KEY_VOLUMEUP
